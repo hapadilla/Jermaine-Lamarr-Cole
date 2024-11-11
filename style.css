@@ -1,0 +1,28 @@
+table, th, td {border: 1px solid yellow}
+
+body, html {
+    height: 100%;}
+
+    body{background-image: url(https://www.gemsradio.net/wp-content/uploads/2024/04/J.-Cole_Lead-Promo-Image.webp); /* The image used */
+   
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; /* Resize the background image to cover the entire container */}
+
+        .center {
+            margin-left: auto;
+            margin-right: auto;
+          }
+          form{
+            background-color:transparent ;
+            /* padding */
+            padding:20px ;
+            border-radius: 10px;
+            width: 450px;
+            height: 450px;
+            text-align: center;
+            margin: 0 auto;
+            
+        }
+          
+        P { text-align: center }
